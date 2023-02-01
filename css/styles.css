@@ -1,0 +1,36 @@
+.bikerz-zone-light-red{
+    background-color: rgba(255, 0, 0, 0.233);
+}
+.banner{
+    background-color: #264653;
+} 
+.rating-icon{
+    width:20px;
+}
+.btn-bz-danger{
+    background-color: rgba(255, 47, 186, 0.534);
+    color: white;
+}
+/* .w-25{
+    width: 75% !important;
+} */
+.nav-link{
+    color: white;
+}
+/* .list-unstyled{
+    margin-left: 2px;
+} */
+/* list-unstyled
+Probir Ghosh21:44
+.nav.navbar-nav.navbar-right li a {
+    color: blue;
+}
+list-unstyled
+Probir Ghosh21:44
+.nav.navbar-nav.navbar-right li a {
+    color: blue;
+}
+Probir Ghosh21:46
+.nav-link {
+color: white !important;
+} */
